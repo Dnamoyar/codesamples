@@ -1,0 +1,1 @@
+This code counts the number of the 4 different DNA base pairs in an array, outputs the result, and calculates the total possible number of base pairs.
